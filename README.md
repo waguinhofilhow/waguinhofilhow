@@ -18,7 +18,7 @@
 
 ## 📂 Featured Projects
 
-- 📝 **[Recursive Descent Parser in Java](#)**  
+- 📝 **[Recursive Descent Parser in Java](https://github.com/waguinhofilhow/academic-recursive-descent-parser)**  
   Implementation of a top-down compiler component for a programming language defined by a context-free grammar.  
   *Technologies:* Java, Compiler Theory, Context-Free Grammars  
 
