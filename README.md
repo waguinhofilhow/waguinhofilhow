@@ -30,7 +30,7 @@
   Decision-making system using fuzzy inference (tip calculator example).  
   *Technologies:* C, Fuzzy Logic, Decision Systems  
 
-- 🐜 **[Ant Colony Optimization](#)**  
+- 🐜 **[Ant Colony Optimization](https://github.com/waguinhofilhow/ant-colony-optimization)**  
   Metaheuristic inspired by ant behavior, applied to path optimization problems.  
   *Technologies:* C, Artificial Intelligence, Swarm Intelligence  
 
