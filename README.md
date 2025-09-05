@@ -26,7 +26,7 @@
   Evolutionary algorithm applied to optimization problems, demonstrating the use of bio-inspired computation.  
   *Technologies:* C, Artificial Intelligence, Optimization  
 
-- 🌫️ **[Fuzzy Logic System](#)**  
+- 🌫️ **[Fuzzy Logic System](https://github.com/waguinhofilhow/fuzzy-logic-system)**  
   Decision-making system using fuzzy inference (tip calculator example).  
   *Technologies:* C, Fuzzy Logic, Decision Systems  
 
