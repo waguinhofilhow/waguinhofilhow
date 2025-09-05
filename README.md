@@ -22,7 +22,7 @@
   Implementation of a top-down compiler component for a programming language defined by a context-free grammar.  
   *Technologies:* Java, Compiler Theory, Context-Free Grammars  
 
-- 🧬 **[Genetic Algorithm](#)**  
+- 🧬 **[Genetic Algorithm](https://github.com/waguinhofilhow/genetic-algorithms-projects)**  
   Evolutionary algorithm applied to optimization problems, demonstrating the use of bio-inspired computation.  
   *Technologies:* C, Artificial Intelligence, Optimization  
 
